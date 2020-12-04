@@ -1,3 +1,3 @@
 == Legal Notice
 
-Copyright (C) {YEAR}
+Copyright (C) {YEAR} Snehangshu Karmakar.
