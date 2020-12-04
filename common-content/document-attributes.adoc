@@ -1,6 +1,7 @@
 :REBUILT: Friday, December 04, 2020
 :PRODUCT: Training
 :CONTACT: {PRODUCT} team: snehangshu@gmail.com
+:YEAR: 2020
 
 :imagesdir: _images
 :toc: left
